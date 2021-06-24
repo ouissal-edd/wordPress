@@ -1,0 +1,1533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-27 08:46-0500\n"
+"PO-Revision-Date: 2020-01-27 08:46-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin-config.php:16
+msgid "General Settings"
+msgstr ""
+
+#: admin-config.php:33
+msgid "Load Pages With Ajax"
+msgstr ""
+
+#: admin-config.php:34
+msgid ""
+"When navigates to another page it loads the target content without reloading "
+"the current page."
+msgstr ""
+
+#: admin-config.php:52
+msgid "Enable Smooth Scrolling"
+msgstr ""
+
+#: admin-config.php:70
+msgid "Enable Preloader"
+msgstr ""
+
+#: admin-config.php:71
+msgid "Enable preloader mask while the page is loading."
+msgstr ""
+
+#: admin-config.php:89
+msgid "Enable Fullscreen menu on desktop"
+msgstr ""
+
+#: admin-config.php:106
+msgid "Fullscreen menu text"
+msgstr ""
+
+#: admin-config.php:107
+msgid ""
+" Any HTML content in addition to menu items displayed in the fullscreen menu."
+msgstr ""
+
+#: admin-config.php:117 default-theme-options.php:14
+msgid "Menu"
+msgstr ""
+
+#: admin-config.php:125
+msgid "Menu button caption"
+msgstr ""
+
+#: admin-config.php:126
+msgid "Text preceding the burger menu button."
+msgstr ""
+
+#: admin-config.php:144
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: admin-config.php:153 default-theme-options.php:13
+msgid "Back Top"
+msgstr ""
+
+#: admin-config.php:161
+msgid "Back To Top Caption"
+msgstr ""
+
+#: admin-config.php:162
+msgid "Caption displayed next to the back to top button in the footer."
+msgstr ""
+
+#: admin-config.php:180
+msgid "Default Background Type"
+msgstr ""
+
+#: admin-config.php:181
+msgid ""
+"Default background type for pages, posts and category pages. The background "
+"type set in page options will overwrite this option."
+msgstr ""
+
+#: admin-config.php:184 admin-config.php:834 metabox-config.php:30
+#: metabox-config.php:172 metabox-config.php:207
+msgid "White"
+msgstr ""
+
+#: admin-config.php:185 admin-config.php:835 metabox-config.php:31
+#: metabox-config.php:173 metabox-config.php:208
+msgid "Black"
+msgstr ""
+
+#: admin-config.php:201
+msgid "Display Page Title When Hero Section Is Disabled"
+msgstr ""
+
+#: admin-config.php:219
+msgid "Enable Magic Cursor"
+msgstr ""
+
+#: admin-config.php:231
+msgid "Header Settings"
+msgstr ""
+
+#: admin-config.php:249
+msgid "Header Logo"
+msgstr ""
+
+#: admin-config.php:250
+msgid "Upload your logo to be displayed at the left side of the header menu."
+msgstr ""
+
+#: admin-config.php:268
+msgid "Header Logo Light"
+msgstr ""
+
+#: admin-config.php:269
+msgid "Light logo displayed on dark backgrounds."
+msgstr ""
+
+#: admin-config.php:280
+msgid "Footer Settings"
+msgstr ""
+
+#: admin-config.php:297
+msgid "Copyright text"
+msgstr ""
+
+#: admin-config.php:298
+msgid "This is the copyright text displayed in the footer."
+msgstr ""
+
+#: admin-config.php:308 default-theme-options.php:21
+msgid "Follow Us"
+msgstr ""
+
+#: admin-config.php:316
+msgid "Social Links Prefix"
+msgstr ""
+
+#: admin-config.php:317
+msgid "Text preceding the social links."
+msgstr ""
+
+#: admin-config.php:335
+msgid "Display Social Links As Fontawesome Icons"
+msgstr ""
+
+#: admin-config.php:336
+msgid "If unchecked will display the social networks acronyms."
+msgstr ""
+
+#: admin-config.php:357
+msgid "Social Network Name "
+msgstr ""
+
+#: admin-config.php:375
+msgid "Social Link URL "
+msgstr ""
+
+#: admin-config.php:388
+msgid "Portfolio Settings"
+msgstr ""
+
+#: admin-config.php:406
+msgid "Custom Slug"
+msgstr ""
+
+#: admin-config.php:407
+msgid ""
+"If you want your portfolio post type to have a custom slug in the url, "
+"please enter it here. You will still have to refresh your permalinks after "
+"saving this! This is done by going to Settings > Permalinks and clicking "
+"save."
+msgstr ""
+
+#: admin-config.php:417
+msgid "Next Case"
+msgstr ""
+
+#: admin-config.php:425
+msgid "Next Project Caption"
+msgstr ""
+
+#: admin-config.php:426
+msgid "Caption of the next project in portfolio navigation."
+msgstr ""
+
+#: admin-config.php:436 default-theme-options.php:32
+msgid "All"
+msgstr ""
+
+#: admin-config.php:444
+msgid "All Category Caption"
+msgstr ""
+
+#: admin-config.php:445
+msgid ""
+"The caption the All category displaying all portfolio items in portfolio "
+"page templates."
+msgstr ""
+
+#: admin-config.php:455 default-theme-options.php:33
+msgid "show filters"
+msgstr ""
+
+#: admin-config.php:463
+msgid "Portfolio Grid - Show Filters Caption"
+msgstr ""
+
+#: admin-config.php:464
+msgid "Caption of the Show Filters button displayed in Portfolio Grid layout."
+msgstr ""
+
+#: admin-config.php:482
+msgid "Portfolio Items Navigation Order"
+msgstr ""
+
+#: admin-config.php:485
+msgid ""
+"Forward in time (next item is newer or loops to the oldest if current item "
+"is the newest)"
+msgstr ""
+
+#: admin-config.php:486
+msgid ""
+"Backward in time (next item is older or loops to the newest if current item "
+"is the oldest)"
+msgstr ""
+
+#: admin-config.php:495
+msgid "Blog Settings"
+msgstr ""
+
+#: admin-config.php:504 admin-config.php:540 default-theme-options.php:35
+#: default-theme-options.php:37
+msgid "Next"
+msgstr ""
+
+#: admin-config.php:512
+msgid "Next Post Caption"
+msgstr ""
+
+#: admin-config.php:513
+msgid "Caption of the button linking to the next single blog post page."
+msgstr ""
+
+#: admin-config.php:522 default-theme-options.php:36
+msgid "Prev"
+msgstr ""
+
+#: admin-config.php:530
+msgid "Previous Posts Page Caption"
+msgstr ""
+
+#: admin-config.php:531
+msgid "Caption of the button linking to the previous blog posts page."
+msgstr ""
+
+#: admin-config.php:548
+msgid "Next Posts Page Caption"
+msgstr ""
+
+#: admin-config.php:549
+msgid "Caption of the button linking to the next blog posts page."
+msgstr ""
+
+#: admin-config.php:559 default-theme-options.php:38
+msgid "Blog"
+msgstr ""
+
+#: admin-config.php:567
+msgid "Default Posts Page Title"
+msgstr ""
+
+#: admin-config.php:568
+msgid ""
+"Title of the default blog posts page. The default blog posts page is the "
+"page displaying blog posts when there is no front page set in Settings -> "
+"Reading."
+msgstr ""
+
+#: admin-config.php:579
+msgid "Map Settings"
+msgstr ""
+
+#: admin-config.php:588 default-theme-options.php:39
+msgid "775 New York Ave, Brooklyn, Kings, New York 11203"
+msgstr ""
+
+#: admin-config.php:596
+msgid "Google Map Address"
+msgstr ""
+
+#: admin-config.php:597
+msgid ""
+"Example: 775 New York Ave, Brooklyn, Kings, New York 11203. Or you can enter "
+"latitude and longitude for greater precision. Example: 41.40338, 2.17403 (in "
+"decimal degrees - DDD)"
+msgstr ""
+
+#: admin-config.php:616
+msgid "Map Marker"
+msgstr ""
+
+#: admin-config.php:617
+msgid "Please choose an image file for the marker."
+msgstr ""
+
+#: admin-config.php:634
+msgid "Map Zoom Level"
+msgstr ""
+
+#: admin-config.php:635
+msgid "Higher number will be more zoomed in."
+msgstr ""
+
+#: admin-config.php:646 default-theme-options.php:42
+msgid "Bauman"
+msgstr ""
+
+#: admin-config.php:654
+msgid "Pop-up marker title"
+msgstr ""
+
+#: admin-config.php:664 default-theme-options.php:43
+msgid "Here we are. Come to drink a coffee!"
+msgstr ""
+
+#: admin-config.php:672
+msgid "Pop-up marker text"
+msgstr ""
+
+#: admin-config.php:690
+msgid "Map Type"
+msgstr ""
+
+#: admin-config.php:691
+msgid "Set the map type as road map or satellite."
+msgstr ""
+
+#: admin-config.php:694
+msgid "Satellite"
+msgstr ""
+
+#: admin-config.php:695
+msgid "Roadmap"
+msgstr ""
+
+#: admin-config.php:711
+msgid "Google Maps API Key"
+msgstr ""
+
+#: admin-config.php:712
+msgid ""
+"Without it, the map may not be displayed. If you have an api key paste it "
+"here. More information on how to obtain a google maps api key: https://"
+"developers.google.com/maps/documentation/javascript/get-api-key#get-an-api-"
+"key"
+msgstr ""
+
+#: admin-config.php:723
+msgid "Error Page Settings"
+msgstr ""
+
+#: admin-config.php:732 default-theme-options.php:46
+msgid "404"
+msgstr ""
+
+#: admin-config.php:740
+msgid "Error Page Title"
+msgstr ""
+
+#: admin-config.php:750 default-theme-options.php:47
+msgid "The page you are looking for could not be found."
+msgstr ""
+
+#: admin-config.php:758
+msgid "Error Page Info Text"
+msgstr ""
+
+#: admin-config.php:768 default-theme-options.php:48
+msgid "Home Page"
+msgstr ""
+
+#: admin-config.php:776
+msgid "Back Button Caption"
+msgstr ""
+
+#: admin-config.php:786 default-theme-options.php:49
+msgid "Go Back"
+msgstr ""
+
+#: admin-config.php:794
+msgid "Back Button Caption On Hover"
+msgstr ""
+
+#: admin-config.php:812
+msgid "Back Button URL"
+msgstr ""
+
+#: admin-config.php:830
+msgid "Background Type"
+msgstr ""
+
+#: admin-config.php:831
+msgid "Background type for the 404 error page."
+msgstr ""
+
+#: blog-config.php:60
+msgid "at"
+msgstr ""
+
+#: blog-config.php:61
+msgid "Reply"
+msgstr ""
+
+#: blog-config.php:67
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: category.php:45
+msgid "No posts found in this category"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:325 required_plugins.php:86
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:326 required_plugins.php:87
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328 required_plugins.php:88
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:331 required_plugins.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:383 required_plugins.php:100
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:384 class-tgm-plugin-activation.php:906
+#: class-tgm-plugin-activation.php:2608 class-tgm-plugin-activation.php:3655
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385 class-tgm-plugin-activation.php:3234
+#: required_plugins.php:101
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:599
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:715
+msgid "The tgmpa_admin_menu_use_add_theme_page filter is deprecated."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1013
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1013 class-tgm-plugin-activation.php:1016
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1016
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2057
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2348
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2351
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2367
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2370
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2373
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2390
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2394
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2396
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2402
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2405
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2408
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2565
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2573
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2585
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2622
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2623
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2624
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2628
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2629
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2678
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2683
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2689
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2792
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2798
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2801
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2832
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2834
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2875
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2877
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2983
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3009
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3233
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3576
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3578
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3582
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3584 class-tgm-plugin-activation.php:3592
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3584 class-tgm-plugin-activation.php:3592
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3585
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3590
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3593
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:71
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:72
+#, php-format
+msgid "Leave a comment to %s "
+msgstr ""
+
+#: comments.php:73
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:74
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:78
+msgid "Comment"
+msgstr ""
+
+#: default-theme-options.php:31
+msgid "Next Project"
+msgstr ""
+
+#: default-theme-options.php:77 metabox-config.php:295
+msgid "Scroll Down"
+msgstr ""
+
+#: defines.php:6
+msgid "Facebook"
+msgstr ""
+
+#: defines.php:7
+msgid "Twitter"
+msgstr ""
+
+#: defines.php:8
+msgid "Behance"
+msgstr ""
+
+#: defines.php:9
+msgid "Dribbble"
+msgstr ""
+
+#: defines.php:10
+msgid "Instagram"
+msgstr ""
+
+#: defines.php:11
+msgid "Linkedin"
+msgstr ""
+
+#: defines.php:12
+msgid "WhatsApp"
+msgstr ""
+
+#: defines.php:13
+msgid "DeviantArt"
+msgstr ""
+
+#: defines.php:14
+msgid "Digg"
+msgstr ""
+
+#: defines.php:15
+msgid "Flickr"
+msgstr ""
+
+#: defines.php:16
+msgid "Foursquare"
+msgstr ""
+
+#: defines.php:17
+msgid "Git"
+msgstr ""
+
+#: defines.php:18
+msgid "Pinterest"
+msgstr ""
+
+#: defines.php:19
+msgid "Reddit"
+msgstr ""
+
+#: defines.php:20
+msgid "Medium"
+msgstr ""
+
+#: defines.php:21
+msgid "Skype"
+msgstr ""
+
+#: defines.php:22
+msgid "Souncloud"
+msgstr ""
+
+#: defines.php:23
+msgid "Stumbleupon"
+msgstr ""
+
+#: defines.php:24
+msgid "Tumblr"
+msgstr ""
+
+#: defines.php:25
+msgid "Yahoo"
+msgstr ""
+
+#: defines.php:26
+msgid "Yelp"
+msgstr ""
+
+#: defines.php:27
+msgid "Youtube"
+msgstr ""
+
+#: defines.php:28
+msgid "Vimeo"
+msgstr ""
+
+#: defines.php:29
+msgid "Xing"
+msgstr ""
+
+#: metabox-config.php:18
+msgid "General"
+msgstr ""
+
+#: metabox-config.php:21
+msgid "Options concerning all page templates."
+msgstr ""
+
+#: metabox-config.php:27 metabox-config.php:169 metabox-config.php:204
+msgid "Background color"
+msgstr ""
+
+#: metabox-config.php:28 metabox-config.php:205
+msgid "Background color for this page."
+msgstr ""
+
+#: metabox-config.php:41
+msgid "Display Hero Section"
+msgstr ""
+
+#: metabox-config.php:42
+msgid ""
+"Enable \"hero\" section displayed immediately below page header. Showcase "
+"and Carousel pages do not have a hero section."
+msgstr ""
+
+#: metabox-config.php:43 metabox-config.php:73 metabox-config.php:254
+msgid "Yes"
+msgstr ""
+
+#: metabox-config.php:44 metabox-config.php:74 metabox-config.php:255
+msgid "No"
+msgstr ""
+
+#: metabox-config.php:52 metabox-config.php:278
+msgid "Hero Caption Title"
+msgstr ""
+
+#: metabox-config.php:53
+msgid "Caption title displayed over hero section."
+msgstr ""
+
+#: metabox-config.php:60 metabox-config.php:285
+msgid "Hero Caption Subtitle"
+msgstr ""
+
+#: metabox-config.php:61 metabox-config.php:286
+msgid "Caption subtitle displayed over hero section. Enter plain text."
+msgstr ""
+
+#: metabox-config.php:71
+msgid "Enable Page Navigation Section"
+msgstr ""
+
+#: metabox-config.php:72
+msgid ""
+"Enable page navigation section displayed above the footer. Available only in "
+"Default, Portfolio and Portfolio Mixed templates."
+msgstr ""
+
+#: metabox-config.php:82
+msgid "Navigation Caption"
+msgstr ""
+
+#: metabox-config.php:83
+msgid "Caption displayed above the next page title."
+msgstr ""
+
+#: metabox-config.php:90
+msgid "Next Page Url"
+msgstr ""
+
+#: metabox-config.php:91
+msgid "The url of the next page in navigation."
+msgstr ""
+
+#: metabox-config.php:98
+msgid "Next Page Title"
+msgstr ""
+
+#: metabox-config.php:99
+msgid ""
+"The title of the next page in navigation. For an optimal transition between "
+"pages this field is the next page hero title or next page title (if hero is "
+"disabled)."
+msgstr ""
+
+#: metabox-config.php:106
+msgid "Next Page Subtitle"
+msgstr ""
+
+#: metabox-config.php:107
+msgid ""
+"The subtitle of the next page in navigation. For an optimal transition "
+"between pages this field is the next page hero subtitle (if hero is enabled)."
+msgstr ""
+
+#: metabox-config.php:114
+msgid "Portfolio and Portfolio Mixed Templates"
+msgstr ""
+
+#: metabox-config.php:117
+msgid "Options concerning only Portfolio templates."
+msgstr ""
+
+#: metabox-config.php:123
+msgid "First Number Of Items In Portfolio Mixed"
+msgstr ""
+
+#: metabox-config.php:124
+msgid ""
+"Available only for Portfolio Mixed Template: the first number of portfolio "
+"items displayed as portfolio grid tiles. The rest are displayed as secondary "
+"items. Leave empty for ALL."
+msgstr ""
+
+#: metabox-config.php:131
+msgid "Showcase and Carousel Templates"
+msgstr ""
+
+#: metabox-config.php:134
+msgid "Options concerning only Showcase and Carousel templates."
+msgstr ""
+
+#: metabox-config.php:140
+msgid "Category Filter"
+msgstr ""
+
+#: metabox-config.php:141
+msgid ""
+"Paste here the portfolio category slugs you want to include in the Showcase "
+"slider separated by comma. Do not include spaces. For example photography,"
+"branding. It will exclude the rest of the categories. The portfolio category "
+"slugs can be found in Portfolio -> Categories."
+msgstr ""
+
+#: metabox-config.php:151
+msgid "Page Options"
+msgstr ""
+
+#: metabox-config.php:170
+msgid "Background color for this blog post."
+msgstr ""
+
+#: metabox-config.php:185
+msgid "Post Options"
+msgstr ""
+
+#: metabox-config.php:217
+msgid "Thumbnail Size"
+msgstr ""
+
+#: metabox-config.php:218
+msgid ""
+"Size of the thumbnail for this item as it appears in portfolio pages. The "
+"thumbnail image is the hero image assigned for this item."
+msgstr ""
+
+#: metabox-config.php:220
+msgid "Normal"
+msgstr ""
+
+#: metabox-config.php:221
+msgid "Wide"
+msgstr ""
+
+#: metabox-config.php:229
+msgid "Include In Showcase Slider"
+msgstr ""
+
+#: metabox-config.php:230
+msgid ""
+"Include this portfolio item in the Showcase slider. The slider is displayed "
+"in Showcase page template."
+msgstr ""
+
+#: metabox-config.php:232
+msgid "Include in Showcase"
+msgstr ""
+
+#: metabox-config.php:233
+msgid "Exclude from Showcase"
+msgstr ""
+
+#: metabox-config.php:244
+msgid "Hero Image"
+msgstr ""
+
+#: metabox-config.php:245
+msgid ""
+"Upload hero background image.  The hero image is being displayed in "
+"portfolio showcase. Hero section is the header section displayed at the top "
+"of the project page."
+msgstr ""
+
+#: metabox-config.php:252
+msgid "Video Hero"
+msgstr ""
+
+#: metabox-config.php:253
+msgid ""
+"Video displayed as hero section and showcase slide. If you check this option "
+"set the Hero Image as the first frame image of the video to avoid flickering!"
+msgstr ""
+
+#: metabox-config.php:262
+msgid "Webm Video URL"
+msgstr ""
+
+#: metabox-config.php:263
+msgid ""
+"URL of the showcase slide background webm video. Webm format is previewed in "
+"Chrome and Firefox."
+msgstr ""
+
+#: metabox-config.php:270
+msgid "MP4 Video URL"
+msgstr ""
+
+#: metabox-config.php:271
+msgid ""
+"URL of the showcase slide background MP4 video. MP4 format is previewed in "
+"IE, Safari and other browsers."
+msgstr ""
+
+#: metabox-config.php:279
+msgid ""
+"Caption title displayed over hero section. The hero background image is set "
+"in the hero image set in preceding option."
+msgstr ""
+
+#: metabox-config.php:293
+msgid "Scroll Down Caption"
+msgstr ""
+
+#: metabox-config.php:294
+msgid ""
+"Scroll down caption displayed to the left of the hero image indicating "
+"scrolling down to reveal the content. Leave empty for no scroll down button."
+msgstr ""
+
+#: metabox-config.php:301
+msgid "Hero Project Info"
+msgstr ""
+
+#: metabox-config.php:302
+msgid ""
+"Short text describing the project to the bottom right of the hero image. "
+"Usually the year when the project has been accomplished."
+msgstr ""
+
+#: metabox-config.php:308
+msgid "Hero Position"
+msgstr ""
+
+#: metabox-config.php:309
+msgid "Position of the \"hero\" section displayed as page header."
+msgstr ""
+
+#: metabox-config.php:311
+msgid "Relative"
+msgstr ""
+
+#: metabox-config.php:312
+msgid "Parallax"
+msgstr ""
+
+#: metabox-config.php:323
+msgid "Portfolio Item Options"
+msgstr ""
+
+#: page.php:28
+msgid "Pages:"
+msgstr ""
+
+#: required_plugins.php:40
+msgid "Contact Form 7"
+msgstr ""
+
+#: required_plugins.php:46
+msgid "Bauman Functionality Plugin"
+msgstr ""
+
+#: required_plugins.php:54
+msgid "Bauman Gutenberg Blocks"
+msgstr ""
+
+#: required_plugins.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results"
+msgstr ""
+
+#: search.php:43
+msgid "No posts found"
+msgstr ""
+
+#: setup-config.php:15
+msgid "Primary Menu"
+msgstr ""
+
+#: single.php:80
+msgid "Tags:"
+msgstr ""
+
+#: tag.php:46
+msgid "No posts found with this tag"
+msgstr ""
+
+#: util_functions.php:12
+msgid "Image Title"
+msgstr ""
+
+#: util_functions.php:14
+msgid "Image Description"
+msgstr ""
+
+#: vc_map.php:10 vc_map.php:61 vc_map.php:126
+msgid "Bauman - Typo Elements"
+msgstr ""
+
+#: vc_map.php:11 vc_map.php:168 vc_map.php:246
+msgid "Title"
+msgstr ""
+
+#: vc_map.php:17
+msgid "Title Size"
+msgstr ""
+
+#: vc_map.php:25
+msgid "Has Underline?"
+msgstr ""
+
+#: vc_map.php:26
+msgid "If the title is displayed underlined or without underline"
+msgstr ""
+
+#: vc_map.php:33
+msgid "Big Title?"
+msgstr ""
+
+#: vc_map.php:34
+msgid ""
+"This parameter applies only for H1 headings. If the title is normal or "
+"bigger title font size."
+msgstr ""
+
+#: vc_map.php:41 vc_map.php:107 vc_map.php:145 vc_map.php:212 vc_map.php:254
+#: vc_map.php:290 vc_map.php:342 vc_map.php:396 vc_map.php:479 vc_map.php:524
+#: vc_map.php:549 vc_map.php:603 vc_map.php:669
+msgid "Extra Class Name"
+msgstr ""
+
+#: vc_map.php:42 vc_map.php:108 vc_map.php:146 vc_map.php:213 vc_map.php:255
+#: vc_map.php:291 vc_map.php:343 vc_map.php:397 vc_map.php:480 vc_map.php:525
+#: vc_map.php:550 vc_map.php:604 vc_map.php:670
+msgid ""
+"Add here any extra CSS class name(s). Separate multiple classes with space."
+msgstr ""
+
+#: vc_map.php:49 vc_map.php:176 vc_map.php:220
+msgid "Content"
+msgstr ""
+
+#: vc_map.php:51 vc_map.php:178 vc_map.php:222
+msgid "Content goes here"
+msgstr ""
+
+#: vc_map.php:62
+msgid "Button"
+msgstr ""
+
+#: vc_map.php:67
+msgid "Button Link"
+msgstr ""
+
+#: vc_map.php:68
+msgid "URL for the button"
+msgstr ""
+
+#: vc_map.php:75
+msgid "Target Window"
+msgstr ""
+
+#: vc_map.php:76
+msgid "Button link opens in a new or current window"
+msgstr ""
+
+#: vc_map.php:83 vc_map.php:86
+msgid "Hover Caption"
+msgstr ""
+
+#: vc_map.php:84
+msgid "Caption when hovering the button"
+msgstr ""
+
+#: vc_map.php:91
+msgid "Button type"
+msgstr ""
+
+#: vc_map.php:99
+msgid "Rounded border"
+msgstr ""
+
+#: vc_map.php:115 vc_map.php:516
+msgid "Caption"
+msgstr ""
+
+#: vc_map.php:117
+msgid "Caption goes here"
+msgstr ""
+
+#: vc_map.php:127
+msgid "Adds a space between two button shortcodes"
+msgstr ""
+
+#: vc_map.php:136 vc_map.php:161 vc_map.php:190 vc_map.php:232 vc_map.php:273
+#: vc_map.php:388 vc_map.php:412 vc_map.php:457 vc_map.php:494 vc_map.php:540
+#: vc_map.php:565 vc_map.php:594 vc_map.php:619 vc_map.php:639
+msgid "Bauman - Elements"
+msgstr ""
+
+#: vc_map.php:137
+msgid "Accordion"
+msgstr ""
+
+#: vc_map.php:162
+msgid "Accordion Item"
+msgstr ""
+
+#: vc_map.php:191
+msgid "Service Box"
+msgstr ""
+
+#: vc_map.php:196 vc_map.php:238
+msgid "Icon"
+msgstr ""
+
+#: vc_map.php:197
+msgid ""
+"Icon displayed within service box. Type in the class of the icon in this "
+"edit box. The complete and latest list: http://fortawesome.github.io/Font-"
+"Awesome/icons/"
+msgstr ""
+
+#: vc_map.php:204
+msgid "Service Title"
+msgstr ""
+
+#: vc_map.php:205
+msgid "Title of the service"
+msgstr ""
+
+#: vc_map.php:233
+msgid "Contact Info  Box"
+msgstr ""
+
+#: vc_map.php:239
+msgid ""
+"Icon displayed within contact info box. Type in the class of the icon in "
+"this edit box. The complete and latest list: http://fortawesome.github.io/"
+"Font-Awesome/icons/"
+msgstr ""
+
+#: vc_map.php:247
+msgid "Title or header of the contact info box"
+msgstr ""
+
+#: vc_map.php:262
+msgid "Contact Info"
+msgstr ""
+
+#: vc_map.php:264
+msgid "Contact info goes here"
+msgstr ""
+
+#: vc_map.php:274
+msgid "Adds a google map with settings from theme options."
+msgstr ""
+
+#: vc_map.php:282 vc_map.php:305 vc_map.php:334 vc_map.php:358
+msgid "Bauman - Sliders"
+msgstr ""
+
+#: vc_map.php:283
+msgid "Normal Image Slider"
+msgstr ""
+
+#: vc_map.php:306
+msgid "Slide"
+msgstr ""
+
+#: vc_map.php:311 vc_map.php:364
+msgid "Slider Image"
+msgstr ""
+
+#: vc_map.php:312 vc_map.php:365
+msgid "Image representing this slide"
+msgstr ""
+
+#: vc_map.php:319 vc_map.php:372 vc_map.php:434
+msgid "Image ALT"
+msgstr ""
+
+#: vc_map.php:320 vc_map.php:373 vc_map.php:435
+msgid ""
+"The ALT attribute specifies an alternate text for an image, if the image "
+"cannot be displayed"
+msgstr ""
+
+#: vc_map.php:335
+msgid "Carousel Image Slider"
+msgstr ""
+
+#: vc_map.php:359
+msgid "Carousel Slide"
+msgstr ""
+
+#: vc_map.php:389
+msgid "Collage with image popup"
+msgstr ""
+
+#: vc_map.php:413 vc_map.php:426
+msgid "Collage Image"
+msgstr ""
+
+#: vc_map.php:418
+msgid "Collage Image Thumbnail"
+msgstr ""
+
+#: vc_map.php:419
+msgid ""
+"Thumbnail image representing this ollage item, included in carousel and "
+"linking a high res version."
+msgstr ""
+
+#: vc_map.php:427
+msgid "Image representing this collage item opening in a popup"
+msgstr ""
+
+#: vc_map.php:442
+msgid "Collage Image Caption"
+msgstr ""
+
+#: vc_map.php:443
+msgid "The caption of this collage item"
+msgstr ""
+
+#: vc_map.php:458
+msgid "Image Popup"
+msgstr ""
+
+#: vc_map.php:463
+msgid "Zoomed Image"
+msgstr ""
+
+#: vc_map.php:464
+msgid "Zoomed image - usually a higher res image"
+msgstr ""
+
+#: vc_map.php:471
+msgid "Thumbnail Image"
+msgstr ""
+
+#: vc_map.php:472
+msgid "The thumbnail"
+msgstr ""
+
+#: vc_map.php:495
+msgid "Captioned Image"
+msgstr ""
+
+#: vc_map.php:500
+msgid "Image"
+msgstr ""
+
+#: vc_map.php:501
+msgid "The image"
+msgstr ""
+
+#: vc_map.php:508
+msgid "ALT"
+msgstr ""
+
+#: vc_map.php:509
+msgid "ALT attribute."
+msgstr ""
+
+#: vc_map.php:517
+msgid "Image caption."
+msgstr ""
+
+#: vc_map.php:541
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: vc_map.php:566
+msgid "Testimonial"
+msgstr ""
+
+#: vc_map.php:571
+msgid "Name"
+msgstr ""
+
+#: vc_map.php:572
+msgid "Name of the person or company this testimonial belongs to."
+msgstr ""
+
+#: vc_map.php:595
+msgid "Clients List"
+msgstr ""
+
+#: vc_map.php:620 vc_map.php:625
+msgid "Client Logo or Image"
+msgstr ""
+
+#: vc_map.php:626
+msgid "The client logo"
+msgstr ""
+
+#: vc_map.php:640
+msgid "Self hosted video"
+msgstr ""
+
+#: vc_map.php:645
+msgid "Cover Image"
+msgstr ""
+
+#: vc_map.php:646
+msgid "Cover image for still video"
+msgstr ""
+
+#: vc_map.php:653
+msgid "Webm URL"
+msgstr ""
+
+#: vc_map.php:654
+msgid "URL of the self hosted video in webm format"
+msgstr ""
+
+#: vc_map.php:661
+msgid "Mp4 URL"
+msgstr ""
+
+#: vc_map.php:662
+msgid "URL of the self hosted video in mp4 format"
+msgstr ""
